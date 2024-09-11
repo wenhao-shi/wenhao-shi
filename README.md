@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Wenhao. I am interesting in Operating System and just started to learn to be a developer.
+
+Fight on!
+
 <!--
 **wenhao-shi/wenhao-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
